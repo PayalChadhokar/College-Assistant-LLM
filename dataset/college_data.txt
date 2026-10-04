@@ -1,0 +1,287 @@
+Question: What is artificial intelligence?
+Answer: Artificial intelligence is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+
+Question: What is machine learning?
+Answer: Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Question: What is supervised learning?
+Answer: Supervised learning is a type of machine learning in which a model learns from labeled training data. Classification and regression are common supervised learning tasks.
+
+Question: What is unsupervised learning?
+Answer: Unsupervised learning is a type of machine learning in which a model learns patterns from data without labeled outputs. Clustering is a common unsupervised learning technique.
+
+Question: What is reinforcement learning?
+Answer: Reinforcement learning is a type of machine learning in which an agent learns by interacting with an environment and receiving rewards or penalties for its actions.
+
+Question: What is classification?
+Answer: Classification is a supervised machine learning task in which a model predicts a category or class for an input.
+
+Question: What is regression?
+Answer: Regression is a supervised machine learning task used to predict a continuous numerical value.
+
+Question: What is deep learning?
+Answer: Deep learning is a branch of machine learning that uses neural networks with multiple layers to learn complex patterns from data.
+
+Question: What is a neural network?
+Answer: A neural network is a machine learning model inspired by the structure of the human brain. It consists of interconnected layers of artificial neurons.
+
+Question: What is a dataset?
+Answer: A dataset is a collection of data used for analysis, machine learning, testing, or other computational tasks.
+
+Question: What is training data?
+Answer: Training data is the portion of a dataset used to teach a machine learning model patterns and relationships.
+
+Question: What is testing data?
+Answer: Testing data is data used to evaluate how well a trained machine learning model performs on previously unseen examples.
+
+Question: What is overfitting?
+Answer: Overfitting occurs when a machine learning model learns the training data too closely and performs poorly on new unseen data.
+
+Question: What is underfitting?
+Answer: Underfitting occurs when a model is too simple to learn the important patterns in the training data.
+
+Question: What is accuracy?
+Answer: Accuracy is the proportion of correct predictions made by a classification model out of the total number of predictions.
+
+Question: What is precision?
+Answer: Precision is the proportion of correctly predicted positive examples among all examples predicted as positive.
+
+Question: What is recall?
+Answer: Recall is the proportion of correctly predicted positive examples among all actual positive examples.
+
+Question: What is a confusion matrix?
+Answer: A confusion matrix is a table used to evaluate a classification model by showing true positives, true negatives, false positives, and false negatives.
+
+Question: What is natural language processing?
+Answer: Natural language processing is a field of artificial intelligence that enables computers to process, analyze, and generate human language.
+
+Question: What is tokenization?
+Answer: Tokenization is the process of breaking text into smaller units called tokens. Tokens can represent characters, words, or subwords.
+
+Question: What is an LLM?
+Answer: LLM stands for Large Language Model. It is a neural network trained on large amounts of text to understand and generate language.
+
+Question: What is a transformer?
+Answer: A transformer is a neural network architecture that uses attention mechanisms to process relationships between tokens in a sequence.
+
+Question: What is self attention?
+Answer: Self attention is a mechanism that allows a model to determine how important different tokens are to each other when processing a sequence.
+
+Question: What is DBMS?
+Answer: DBMS stands for Database Management System. It is software used to create, store, manage, retrieve, and organize data in databases.
+
+Question: What is a database?
+Answer: A database is an organized collection of related data that can be stored, accessed, and managed efficiently.
+
+Question: What is a table in a database?
+Answer: A table is a database structure that stores data in rows and columns.
+
+Question: What is a primary key?
+Answer: A primary key is an attribute or group of attributes that uniquely identifies each record in a database table.
+
+Question: What is a foreign key?
+Answer: A foreign key is an attribute that creates a relationship between tables by referring to the primary key of another table.
+
+Question: What is normalization?
+Answer: Normalization is a database design technique used to reduce data redundancy and improve data consistency.
+
+Question: What is first normal form?
+Answer: First normal form requires that each table cell contains atomic values and that repeating groups are removed.
+
+Question: What is second normal form?
+Answer: Second normal form requires a table to be in first normal form and ensures that non-key attributes fully depend on the complete primary key.
+
+Question: What is third normal form?
+Answer: Third normal form requires a table to be in second normal form and removes transitive dependencies.
+
+Question: What is SQL?
+Answer: SQL stands for Structured Query Language. It is used to create, retrieve, update, and manage data in relational databases.
+
+Question: What is a SQL query?
+Answer: A SQL query is a command used to retrieve or manipulate data in a database.
+
+Question: What is a join?
+Answer: A join is used in SQL to combine rows from two or more tables based on a related column.
+
+Question: What is Python?
+Answer: Python is a high level programming language known for its simple syntax and wide use in artificial intelligence, machine learning, data science, and software development.
+
+Question: What is a variable in Python?
+Answer: A variable in Python is a name used to refer to a value stored in memory.
+
+Question: What is a list in Python?
+Answer: A list is an ordered and mutable collection of elements in Python.
+
+Question: What is a tuple in Python?
+Answer: A tuple is an ordered and immutable collection of elements in Python.
+
+Question: What is a dictionary in Python?
+Answer: A dictionary is a Python data structure that stores data as key-value pairs.
+
+Question: What is a function in Python?
+Answer: A function is a reusable block of code that performs a specific task.
+
+Question: What is object oriented programming?
+Answer: Object oriented programming is a programming approach that organizes software around objects and classes.
+
+Question: What is a class?
+Answer: A class is a blueprint used to create objects and define their attributes and methods.
+
+Question: What is an object?
+Answer: An object is an instance of a class that contains data and behavior defined by the class.
+
+Question: What is inheritance?
+Answer: Inheritance is an object oriented programming concept in which a class can acquire properties and methods from another class.
+
+Question: What is polymorphism?
+Answer: Polymorphism is an object oriented programming concept that allows the same interface or method to behave differently for different objects.
+
+Question: What is encapsulation?
+Answer: Encapsulation is the process of combining data and methods inside a class and controlling access to the internal data.
+
+Question: What is abstraction?
+Answer: Abstraction is the process of hiding unnecessary implementation details and exposing only the essential features.
+
+Question: What is C++?
+Answer: C++ is a general purpose programming language used for software development, system programming, and competitive programming.
+
+Question: What is a pointer in C++?
+Answer: A pointer is a variable that stores the memory address of another variable.
+
+Question: What is a vector in C++?
+Answer: A vector is a dynamic array provided by the C++ Standard Template Library that can automatically change its size.
+
+Question: What is a data structure?
+Answer: A data structure is a method of organizing and storing data so that it can be accessed and modified efficiently.
+
+Question: What is an array?
+Answer: An array is a data structure that stores a fixed number of elements of the same type in contiguous memory locations.
+
+Question: What is a linked list?
+Answer: A linked list is a linear data structure consisting of nodes where each node stores data and a reference to another node.
+
+Question: What is a stack?
+Answer: A stack is a linear data structure that follows the Last In First Out principle.
+
+Question: What is a queue?
+Answer: A queue is a linear data structure that follows the First In First Out principle.
+
+Question: What is a tree?
+Answer: A tree is a hierarchical data structure consisting of nodes connected by edges.
+
+Question: What is a graph?
+Answer: A graph is a data structure consisting of vertices and edges that represent relationships between objects.
+
+Question: What is an algorithm?
+Answer: An algorithm is a finite sequence of well defined steps used to solve a particular problem.
+
+Question: What is time complexity?
+Answer: Time complexity describes how the running time of an algorithm changes as the size of its input increases.
+
+Question: What is space complexity?
+Answer: Space complexity describes how much additional memory an algorithm requires as the size of its input increases.
+
+Question: What is binary search?
+Answer: Binary search is an efficient searching algorithm that works on sorted data by repeatedly dividing the search space into two halves.
+
+Question: What is sorting?
+Answer: Sorting is the process of arranging data in a particular order, such as ascending or descending order.
+
+Question: What is an operating system?
+Answer: An operating system is system software that manages computer hardware, memory, files, processes, and other system resources.
+
+Question: What is a process?
+Answer: A process is a program that is currently being executed by the operating system.
+
+Question: What is a thread?
+Answer: A thread is the smallest unit of execution within a process.
+
+Question: What is multitasking?
+Answer: Multitasking is the ability of an operating system to execute multiple tasks or processes concurrently.
+
+Question: What is virtual memory?
+Answer: Virtual memory is a memory management technique that uses part of secondary storage to extend the apparent available memory.
+
+Question: What is a computer network?
+Answer: A computer network is a group of interconnected devices that communicate and exchange data.
+
+Question: What is a LAN?
+Answer: LAN stands for Local Area Network. It connects computers and devices within a limited geographical area such as a home, office, or college.
+
+Question: What is a WAN?
+Answer: WAN stands for Wide Area Network. It connects networks across large geographical areas.
+
+Question: What is an IP address?
+Answer: An IP address is a numerical address used to identify a device on a computer network.
+
+Question: What is HTTP?
+Answer: HTTP stands for Hypertext Transfer Protocol. It is used for communication between web browsers and web servers.
+
+Question: What is software engineering?
+Answer: Software engineering is a systematic approach to designing, developing, testing, deploying, and maintaining software systems.
+
+Question: What is the software development life cycle?
+Answer: The software development life cycle is a structured process used to develop software. Common stages include planning, requirements analysis, design, implementation, testing, deployment, and maintenance.
+
+Question: What is software testing?
+Answer: Software testing is the process of evaluating software to identify defects and verify that the software meets its requirements.
+
+Question: What is debugging?
+Answer: Debugging is the process of identifying and correcting errors or bugs in a computer program.
+
+Question: What is Git?
+Answer: Git is a distributed version control system used to track changes in source code and collaborate on software projects.
+
+Question: What is GitHub?
+Answer: GitHub is a platform used to host Git repositories and collaborate on software development projects.
+
+Question: What is a compiler?
+Answer: A compiler is a program that translates source code written in a programming language into machine code or another lower level representation.
+
+Question: What is an API?
+Answer: API stands for Application Programming Interface. It is a set of rules and methods that allows different software systems to communicate with each other.
+
+Question: What is Flask?
+Answer: Flask is a lightweight Python web framework used to build web applications and APIs.
+
+Question: What is an epoch in machine learning?
+Answer: An epoch is one complete pass through the entire training dataset during model training.
+
+Question: What is a batch?
+Answer: A batch is a group of training examples processed together by a machine learning model during one training step.
+
+Question: What is a learning rate?
+Answer: The learning rate controls how much the model parameters are changed during each optimization step.
+
+Question: What is an optimizer?
+Answer: An optimizer is an algorithm used to update the parameters of a machine learning model to reduce the training loss.
+
+Question: What is loss?
+Answer: Loss is a numerical value that measures the difference between a model prediction and the expected target.
+
+Question: What is training in machine learning?
+Answer: Training is the process of adjusting a machine learning model's parameters using data so that it can learn useful patterns.
+
+Question: What is inference?
+Answer: Inference is the process of using a trained machine learning model to make predictions on new input data.
+
+Question: What is a parameter in a neural network?
+Answer: A parameter is a learned numerical value in a neural network that is adjusted during training.
+
+Question: What is an embedding?
+Answer: An embedding is a numerical vector representation of an item such as a word or token that allows a neural network to process it.
+
+Question: What is a token?
+Answer: A token is a unit of text processed by a language model. Depending on the tokenizer, a token can represent a character, word, or part of a word.
+
+Question: What is text generation?
+Answer: Text generation is the process of producing new text by predicting and selecting tokens sequentially.
+
+Question: What is a language model?
+Answer: A language model is a machine learning model that learns patterns in language and predicts the probability of tokens or characters occurring in a sequence.
+
+Question: What is a Transformer language model?
+Answer: A Transformer language model is a language model based on the Transformer architecture, which uses attention mechanisms to learn relationships between tokens.
+
+Question: What is the College Assistant LLM?
+Answer: The College Assistant LLM is a small Transformer based language model designed to learn college related educational text and generate relevant text responses.
