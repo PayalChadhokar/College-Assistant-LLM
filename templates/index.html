@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>College Assistant LLM</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="app-container">
+
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <div class="logo-icon">🎓</div>
+
+                <div>
+                    <h1>College Assistant</h1>
+                    <p>AI-powered academic assistant</p>
+                </div>
+            </div>
+
+            <div class="status">
+                <span class="status-dot"></span>
+                Model Online
+            </div>
+        </header>
+
+
+        <!-- Chat Area -->
+        <main class="chat-container">
+
+            <div id="chat-box" class="chat-box">
+
+                <!-- Welcome message -->
+                <div class="message assistant-message">
+                    <div class="avatar">AI</div>
+
+                    <div class="message-content">
+                        <div class="message-name">
+                            College Assistant
+                        </div>
+
+                        <div class="message-text">
+                            Hello! 👋<br><br>
+                            I am your College Assistant LLM.
+                            Ask me questions about AI, Machine Learning,
+                            Python, C++, DBMS, SQL, NLP, Data Structures,
+                            Algorithms and other technical topics.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <!-- Typing indicator -->
+            <div id="typing" class="typing hidden">
+                <span></span>
+                <span></span>
+                <span></span>
+                <label>Generating answer...</label>
+            </div>
+
+
+            <!-- Input Area -->
+            <div class="input-area">
+
+                <textarea
+                    id="question"
+                    placeholder="Ask your question..."
+                    rows="1"
+                ></textarea>
+
+                <button id="send-btn" type="button">
+                    <span>➤</span>
+                </button>
+
+            </div>
+
+            <div class="input-hint">
+                Press <b>Enter</b> to send •
+                <b>Shift + Enter</b> for a new line
+            </div>
+
+            <button id="clear-btn" class="clear-btn" type="button">
+                Clear Conversation
+            </button>
+
+        </main>
+
+
+        <!-- Footer -->
+        <footer>
+            <p>
+                College Assistant LLM • Built with Python, PyTorch & Flask
+            </p>
+        </footer>
+
+    </div>
+
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
